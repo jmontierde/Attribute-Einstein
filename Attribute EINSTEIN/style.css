@@ -1,0 +1,31 @@
+html {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      background-color: rgb(177, 177, 177);
+}
+body {
+      text-align: center;
+      justify-content: center;
+      word-spacing: 0%;
+      text-decoration: none;
+}
+
+
+.name {
+      color: rgb(105, 57, 218);
+}
+.about {
+      text-align: left;
+      padding-left: 40px;
+}
+
+img {
+      height: 250px;
+      width: 200px;
+}
+
+.footer {
+      color: rgb(102, 9, 105);
+      text-decoration: none;
+}
